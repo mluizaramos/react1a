@@ -1,0 +1,26 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(212, 127, 30);
+}
+
+.logo img{
+    position: absolute;
+    top: 22px; 
+    left: 30px;
+    width: 60px;
+}
+
+.links {
+    position: absolute;
+    top: 35px;
+    right: 40px;
+}
+
+.links a {
+    margin-left: 40px;
+    text-decoration: none;
+    font-weight: 600;
+}
+

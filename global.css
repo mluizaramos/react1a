@@ -1,0 +1,17 @@
+:root{
+  --cinza-claro:#fff;
+  --roxo-escuro:#1f0322;
+  --roxo-claro:#ab10bc;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+}
+
+body{
+  background-color: var(--cinza-claro);
+}
